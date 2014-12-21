@@ -6,22 +6,16 @@
            
   <remote name="github"
             fetch="https://github.com/" />
-            
-  <remote name="bitbucket"
-            fetch="https://bitbucket.org/" />
 
   <remote name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/tags/android-5.0.1_r1"
+  <default revision="refs/tags/android-5.0.2_r1"
            remote="aosp"
            sync-c="true"
            sync-f="true"
            sync-j="4" />
 
-<project path="mako" name="Stuxnet-Kernel/kernel_mako" remote="github" revision="Stuxnet" />
-<project path="ramdisk" name="Stuxnet-Kernel/ramdisk_mako" remote="github" revision="Stuxnet" />
-<project path="cyanogenmod" name="Stuxnet-Kernel/cyanogen_ramdisk" remote="github" revision="master" />
-<project path="build" name="Stuxnet-Kernel/kernel_build" remote="github" revision="Stuxnet" />
+<project path="mako" name="Stuxnet-Kernel/kernel_shamu" remote="github" revision="Stuxnet" />
 
 </manifest>

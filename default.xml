@@ -16,6 +16,7 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="mako" name="Stuxnet-Kernel/kernel_shamu" remote="github" revision="Stuxnet" />
+<project path="shamu" name="Stuxnet-Kernel/kernel_shamu" remote="github" revision="Stuxnet" />
+<project path="build" name="Stuxnet-Kernel/kernel_build" remote="github" revision="Stuxnet" />
 
 </manifest>

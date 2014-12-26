@@ -355,7 +355,7 @@
   <!-- <project path="kernel/lge/hammerhead" name="SimpleAOSP-Lollipop/platform_kernel_lge_hammerhead" remote="github" revision="L" />
   <project path="kernel/lge/mako" name="SimpleAOSP-Lollipop/platform_kernel_lge_mako" remote="github" revision="L" />
   <project path="kernel/asus/flo" name="SimpleAOSP-Lollipop/platform_kernel_asus_flo" remote="github" revision="L" /> -->
-  <project path="kernel/moto/shamu" name="Stuxnet-Kernel/kernel_shamu" remote="github" revision="L" />
+  <project path="kernel/moto/shamu" name="Stuxnet-Kernel/kernel_shamu" remote="github" revision="L-Mainstream" />
   <project path="libcore" name="platform/libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="manifest" name="SimpleAOSP-Lollipop/platform_manifest" remote="github" revision="L" />

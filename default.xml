@@ -16,7 +16,7 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="g3" name="Stuxnet-Kernel/kernel_g3" remote="github" revision="L" />
+<project path="g3" name="Stuxnet-Kernel/kernel_g3" remote="github" revision="L-mainstream" />
 <project path="arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" groups="pdk,linux,arm" />
 
 </manifest>

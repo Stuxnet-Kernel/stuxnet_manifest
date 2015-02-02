@@ -20,6 +20,7 @@
            sync-j="4" />
 
 <project path="mako" name="Stuxnet-Kernel/kernel_mako" remote="github" revision="Stuxnet" />
+<project path="shamu" name="Stuxnet-Kernel/kernel_shamu" remote="github" revision="Stuxnet" />
 <project path="ramdisk" name="Stuxnet-Kernel/ramdisk_mako" remote="github" revision="Stuxnet" />
 <project path="cyanogenmod" name="Stuxnet-Kernel/cyanogen_ramdisk" remote="github" revision="master" />
 <project path="build" name="Stuxnet-Kernel/kernel_build" remote="github" revision="Stuxnet" />
